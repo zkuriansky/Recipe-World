@@ -1,0 +1,286 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "category": "Pasta",
+      "description": "A classic Italian pasta made with bacon, Parmesan cheese, eggs, and black pepper.",
+      "ingredients": [
+        "200 g spaghetti",
+        "150 g bacon",
+        "2 eggs",
+        "50 g Parmesan cheese",
+        "Salt",
+        "Black pepper"
+      ],
+      "steps": [
+        "Cook the spaghetti until al dente.",
+        "Fry the bacon until crispy.",
+        "Mix the eggs with grated Parmesan.",
+        "Combine the hot pasta with the bacon.",
+        "Add the egg mixture and stir quickly."
+      ],
+      "image": "/images/meal-carb.webp",
+      "time": "25 min",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 2,
+      "title": "Greek Salad",
+      "category": "Salads",
+      "description": "A refreshing Mediterranean salad with feta cheese and olives.",
+      "ingredients": [
+        "Tomatoes",
+        "Cucumber",
+        "Red onion",
+        "Feta cheese",
+        "Olives",
+        "Olive oil"
+      ],
+      "steps": [
+        "Chop the vegetables.",
+        "Add the feta cheese.",
+        "Mix in the olives.",
+        "Drizzle with olive oil and toss."
+      ],
+      "image": "/images/meal-grec.jpeg",
+      "time": "15 min",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 3,
+      "title": "Borscht",
+      "category": "Soups",
+      "description": "Traditional beetroot soup with beef, cabbage, and potatoes.",
+      "ingredients": [
+        "Beef",
+        "Beetroot",
+        "Potatoes",
+        "Cabbage",
+        "Carrot",
+        "Onion",
+        "Tomato paste"
+      ],
+      "steps": [
+        "Prepare the beef broth.",
+        "Add potatoes.",
+        "Saute the vegetables.",
+        "Add beetroot and tomato paste.",
+        "Combine everything and simmer until ready."
+      ],
+      "image": "/images/meal-borsch.jpeg",
+      "time": "90 min",
+      "difficulty": "Hard"
+    },
+    {
+      "id": 4,
+      "title": "Pancakes",
+      "category": "Breakfast",
+      "description": "Fluffy American-style pancakes perfect for breakfast.",
+      "ingredients": [
+        "Flour",
+        "Milk",
+        "Egg",
+        "Baking powder",
+        "Sugar",
+        "Butter"
+      ],
+      "steps": [
+        "Mix the dry ingredients.",
+        "Add the milk and egg.",
+        "Whisk until smooth.",
+        "Cook on a non-stick pan until golden."
+      ],
+      "image": "/images/meal-panck.jpg",
+      "time": "20 min",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 5,
+      "title": "Chocolate Brownie",
+      "category": "Desserts",
+      "description": "A rich and fudgy chocolate brownie with a soft center.",
+      "ingredients": [
+        "Dark chocolate",
+        "Butter",
+        "Eggs",
+        "Sugar",
+        "Flour",
+        "Cocoa powder"
+      ],
+      "steps": [
+        "Melt the chocolate with butter.",
+        "Beat the eggs with sugar.",
+        "Combine the mixtures.",
+        "Add flour and cocoa.",
+        "Bake for 25 minutes."
+      ],
+      "image": "/images/meal-brown.jpg",
+      "time": "40 min",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 6,
+      "title": "Chicken Teriyaki",
+      "category": "Main Course",
+      "description": "Juicy chicken cooked in a sweet and savory teriyaki sauce.",
+      "ingredients": [
+        "Chicken breast",
+        "Teriyaki sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame seeds"
+      ],
+      "steps": [
+        "Slice the chicken.",
+        "Cook until golden brown.",
+        "Pour in the teriyaki sauce.",
+        "Simmer for 10 minutes.",
+        "Top with sesame seeds."
+      ],
+      "image": "/images/meal-chickTer.jpeg",
+      "time": "30 min",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 7,
+      "title": "Tiramisu",
+      "category": "Desserts",
+      "description": "A classic Italian dessert made with mascarpone and coffee-soaked ladyfingers.",
+      "ingredients": [
+        "Ladyfingers",
+        "Mascarpone",
+        "Eggs",
+        "Sugar",
+        "Coffee",
+        "Cocoa powder"
+      ],
+      "steps": [
+        "Prepare the mascarpone cream.",
+        "Dip the ladyfingers in coffee.",
+        "Layer the cookies and cream.",
+        "Dust with cocoa powder.",
+        "Chill before serving."
+      ],
+      "image": "/images/meal-tira.jpg",
+      "time": "45 min",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 8,
+      "title": "Vegetable Omelette",
+      "category": "Breakfast",
+      "description": "A quick and healthy omelette filled with fresh vegetables.",
+      "ingredients": [
+        "Eggs",
+        "Bell pepper",
+        "Tomato",
+        "Cheese",
+        "Fresh herbs"
+      ],
+      "steps": [
+        "Chop the vegetables.",
+        "Beat the eggs.",
+        "Cook the vegetables briefly.",
+        "Pour in the eggs.",
+        "Sprinkle with cheese and finish cooking."
+      ],
+      "image": "/images/meal-oml.jpg",
+      "time": "15 min",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 9,
+      "title": "Pumpkin Cream Soup",
+      "category": "Soups",
+      "description": "A smooth and creamy pumpkin soup with fresh cream.",
+      "ingredients": [
+        "Pumpkin",
+        "Potatoes",
+        "Onion",
+        "Cream",
+        "Vegetable broth"
+      ],
+      "steps": [
+        "Cook the onion until soft.",
+        "Add pumpkin and potatoes.",
+        "Pour in the broth.",
+        "Simmer until tender.",
+        "Blend and stir in the cream."
+      ],
+      "image": "/images/meal-pumpk.jpeg",
+      "time": "35 min",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 10,
+      "title": "Margherita Pizza",
+      "category": "Pizza",
+      "description": "Classic homemade pizza with tomato sauce, mozzarella, and basil.",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella",
+        "Fresh basil",
+        "Olive oil"
+      ],
+      "steps": [
+        "Roll out the dough.",
+        "Spread the tomato sauce.",
+        "Add mozzarella.",
+        "Bake for 15 minutes.",
+        "Garnish with basil."
+      ],
+      "image": "/images/meal-pizza.jpg",
+      "time": "35 min",
+      "difficulty": "Medium"
+    },
+    {
+      "id": 11,
+      "title": "Caesar Salad",
+      "category": "Salads",
+      "description": "A famous salad with grilled chicken, croutons, Parmesan, and Caesar dressing.",
+      "ingredients": [
+        "Romaine lettuce",
+        "Chicken breast",
+        "Croutons",
+        "Parmesan cheese",
+        "Caesar dressing"
+      ],
+      "steps": [
+        "Grill the chicken.",
+        "Chop the lettuce.",
+        "Mix with croutons.",
+        "Add sliced chicken.",
+        "Top with Parmesan and dressing."
+      ],
+      "image": "/images/meal-caesar.webp",
+      "time": "25 min",
+      "difficulty": "Easy"
+    },
+    {
+      "id": 12,
+      "title": "Grilled Salmon",
+      "category": "Seafood",
+      "description": "Tender grilled salmon seasoned with herbs and lemon.",
+      "ingredients": [
+        "Salmon fillet",
+        "Olive oil",
+        "Lemon",
+        "Garlic",
+        "Fresh herbs",
+        "Salt",
+        "Black pepper"
+      ],
+      "steps": [
+        "Season the salmon.",
+        "Brush with olive oil.",
+        "Grill for 5-7 minutes on each side.",
+        "Serve with lemon wedges."
+      ],
+      "image": "/images/meal-salmon.jpeg",
+      "time": "20 min",
+      "difficulty": "Medium"
+    }
+  ]
+}

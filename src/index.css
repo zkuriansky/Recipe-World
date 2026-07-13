@@ -1,0 +1,13 @@
+:root {
+    --button-text: 500 14px/1 "Roboto", sans-serif;
+    --header-2: 700 40px/1 "Montserrat", sans-serif;
+    --header-3: 700 24px/1.2 "Montserrat", sans-serif;
+    --paragraph-1: 400 21px/1.4 "Roboto", sans-serif;
+    --paragraph-2: 300 16px/1.4 "Roboto", sans-serif;
+    --subtitle: 700 18px/1 "Montserrat", sans-serif;
+    --background-color: #F0EBE1;
+    --background-color-card: #FFFBF2;
+    --accent-green: #9FDC26;
+    --accent-orange: #EE6352;
+    --accent-light-orange: #F29C33;
+}
