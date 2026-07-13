@@ -7,7 +7,7 @@ export const getRecipes = async (): Promise<RecipesType[]> => {
 };
 
 export const getRecipe = async (id: string): Promise<RecipesType> => {
-  const response = await api.get<RecipesType>("/recipes" + id);
+  const response = await api.get<RecipesType>("/recipes/" + id);
   return response.data;
 };
 

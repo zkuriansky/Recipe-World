@@ -15,6 +15,7 @@ const Featured = (props: FeaturedProp) => {
         {recipes.map((recipe) => {
           return (
             <Card
+              id={recipe.id}
               type="featured"
               key={recipe.id}
               title={recipe.title}

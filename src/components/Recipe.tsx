@@ -68,6 +68,7 @@ const Recipe = (props: RecipeProp) => {
           return (
             <Card
               key={recipe.id}
+              id={recipe.id}
               type="recipe"
               title={recipe.title}
               description={recipe.description}

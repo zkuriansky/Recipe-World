@@ -9,7 +9,7 @@ const Pagination = (props: PaginationProp) => {
   return (
     <>
       <img
-        src="src/assets/icons/arrow-l.svg"
+        src="/icons/arrow-l.svg"
         alt="arrow-l"
         className={page === 1 ? "disabled" : ""}
         width={"50px"}
@@ -22,7 +22,7 @@ const Pagination = (props: PaginationProp) => {
         }}
       />
       <img
-        src="src/assets/icons/arrow-r.svg"
+        src="/icons/arrow-r.svg"
         alt="arrow-r"
         className={page === totalPages ? "disabled" : ""}
         width={"50px"}

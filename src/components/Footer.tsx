@@ -42,7 +42,7 @@ const Footer = () => {
         <li className="footer__socials-item">
           <a href="/">
             <img
-              src="src/assets/icons/icon-tt.svg"
+              src="/icons/icon-tt.svg"
               alt="icon-tik-tok"
               width={"24px"}
               height={"24px"}
@@ -53,7 +53,7 @@ const Footer = () => {
         <li className="footer__socials-item">
           <a href="/">
             <img
-              src="src/assets/icons/icon-fb.svg"
+              src="/icons/icon-fb.svg"
               alt="icon-facebook"
               width={"24px"}
               height={"24px"}
@@ -64,7 +64,7 @@ const Footer = () => {
         <li className="footer__socials-item">
           <a href="/">
             <img
-              src="src/assets/icons/icon-insta.svg"
+              src="/icons/icon-insta.svg"
               alt="icon-insta"
               width={"24px"}
               height={"24px"}
@@ -75,7 +75,7 @@ const Footer = () => {
         <li className="footer__socials-item">
           <a href="/">
             <img
-              src="src/assets/icons/icon-yt.svg"
+              src="/icons/icon-yt.svg"
               alt="icon-youtube"
               width={"24px"}
               height={"24px"}

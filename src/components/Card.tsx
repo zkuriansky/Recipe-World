@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import Button from "./Button";
 
 interface CardProps {
@@ -8,10 +9,11 @@ interface CardProps {
   diff: string;
   category: string;
   image: string;
+  id: number;
 }
 
 const Card = (props: CardProps) => {
-  const { type, title, description, time, diff, category, image } = props;
+  const { type, title, description, time, diff, category, image, id } = props;
   return (
     <div className={type + "__card"}>
       <img
@@ -31,12 +33,14 @@ const Card = (props: CardProps) => {
             <li className={type + "__card-footer-item"}>{diff}</li>
             <li className={type + "__card-footer-item"}>{category}</li>
           </ul>
-          <Button
-            className={type + "__card-footer-button"}
-            title="view recipe"
-            type="recipe"
-            onClick={() => console.log("View")}
-          />
+          <Link to={`/recipe/${id}`}>
+            <Button
+              className={type + "__card-footer-button"}
+              title="view recipe"
+              type="recipe"
+              onClick={() => console.log("View")}
+            />
+          </Link>
         </div>
       </div>
     </div>

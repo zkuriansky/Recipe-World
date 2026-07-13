@@ -8,4 +8,15 @@ export type RecipesType = {
   image: string;
   time: string;
   difficulty: string;
+  calories: number;
+  weight: string;
+  nutrition: Nutrition;
+  rating: number;
+  reviews: number;
+};
+
+export type Nutrition = {
+  protein: string;
+  carbohydrates: string;
+  fat: string;
 };

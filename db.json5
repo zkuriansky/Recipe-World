@@ -9,20 +9,29 @@
         "200 g spaghetti",
         "150 g bacon",
         "2 eggs",
-        "50 g Parmesan cheese",
+        "50 g Parmesan",
         "Salt",
         "Black pepper"
       ],
       "steps": [
-        "Cook the spaghetti until al dente.",
-        "Fry the bacon until crispy.",
-        "Mix the eggs with grated Parmesan.",
-        "Combine the hot pasta with the bacon.",
-        "Add the egg mixture and stir quickly."
+        "Cook spaghetti.",
+        "Fry bacon.",
+        "Mix eggs with Parmesan.",
+        "Combine pasta and bacon.",
+        "Add egg mixture."
       ],
       "image": "/images/meal-carb.webp",
       "time": "25 min",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "calories": 720,
+      "weight": "420 g",
+      "nutrition": {
+        "protein": "38 g",
+        "carbohydrates": "72 g",
+        "fat": "32 g"
+      },
+      "rating": 4.9,
+      "reviews": 186
     },
     {
       "id": 2,
@@ -33,19 +42,28 @@
         "Tomatoes",
         "Cucumber",
         "Red onion",
-        "Feta cheese",
+        "Feta",
         "Olives",
         "Olive oil"
       ],
       "steps": [
-        "Chop the vegetables.",
-        "Add the feta cheese.",
-        "Mix in the olives.",
-        "Drizzle with olive oil and toss."
+        "Chop vegetables.",
+        "Add feta.",
+        "Add olives.",
+        "Dress with olive oil."
       ],
       "image": "/images/meal-grec.jpeg",
       "time": "15 min",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "calories": 280,
+      "weight": "300 g",
+      "nutrition": {
+        "protein": "8 g",
+        "carbohydrates": "14 g",
+        "fat": "20 g"
+      },
+      "rating": 4.7,
+      "reviews": 94
     },
     {
       "id": 3,
@@ -62,15 +80,24 @@
         "Tomato paste"
       ],
       "steps": [
-        "Prepare the beef broth.",
+        "Prepare broth.",
         "Add potatoes.",
-        "Saute the vegetables.",
-        "Add beetroot and tomato paste.",
-        "Combine everything and simmer until ready."
+        "Cook vegetables.",
+        "Add beetroot.",
+        "Simmer."
       ],
       "image": "/images/meal-borsch.jpeg",
       "time": "90 min",
-      "difficulty": "Hard"
+      "difficulty": "Hard",
+      "calories": 350,
+      "weight": "500 g",
+      "nutrition": {
+        "protein": "18 g",
+        "carbohydrates": "28 g",
+        "fat": "12 g"
+      },
+      "rating": 4.8,
+      "reviews": 143
     },
     {
       "id": 4,
@@ -86,14 +113,23 @@
         "Butter"
       ],
       "steps": [
-        "Mix the dry ingredients.",
-        "Add the milk and egg.",
-        "Whisk until smooth.",
-        "Cook on a non-stick pan until golden."
+        "Mix dry ingredients.",
+        "Add milk and egg.",
+        "Whisk.",
+        "Cook on both sides."
       ],
       "image": "/images/meal-panck.jpg",
       "time": "20 min",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "calories": 540,
+      "weight": "280 g",
+      "nutrition": {
+        "protein": "14 g",
+        "carbohydrates": "68 g",
+        "fat": "18 g"
+      },
+      "rating": 4.6,
+      "reviews": 112
     },
     {
       "id": 5,
@@ -109,15 +145,24 @@
         "Cocoa powder"
       ],
       "steps": [
-        "Melt the chocolate with butter.",
-        "Beat the eggs with sugar.",
-        "Combine the mixtures.",
-        "Add flour and cocoa.",
-        "Bake for 25 minutes."
+        "Melt chocolate.",
+        "Beat eggs.",
+        "Combine.",
+        "Add flour.",
+        "Bake."
       ],
       "image": "/images/meal-brown.jpg",
       "time": "40 min",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "calories": 490,
+      "weight": "180 g",
+      "nutrition": {
+        "protein": "6 g",
+        "carbohydrates": "58 g",
+        "fat": "27 g"
+      },
+      "rating": 4.9,
+      "reviews": 205
     },
     {
       "id": 6,
@@ -132,15 +177,24 @@
         "Sesame seeds"
       ],
       "steps": [
-        "Slice the chicken.",
-        "Cook until golden brown.",
-        "Pour in the teriyaki sauce.",
-        "Simmer for 10 minutes.",
-        "Top with sesame seeds."
+        "Slice chicken.",
+        "Cook until golden.",
+        "Add sauce.",
+        "Simmer.",
+        "Serve."
       ],
       "image": "/images/meal-chickTer.jpeg",
       "time": "30 min",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "calories": 610,
+      "weight": "350 g",
+      "nutrition": {
+        "protein": "42 g",
+        "carbohydrates": "36 g",
+        "fat": "24 g"
+      },
+      "rating": 4.8,
+      "reviews": 137
     },
     {
       "id": 7,
@@ -156,15 +210,24 @@
         "Cocoa powder"
       ],
       "steps": [
-        "Prepare the mascarpone cream.",
-        "Dip the ladyfingers in coffee.",
-        "Layer the cookies and cream.",
-        "Dust with cocoa powder.",
-        "Chill before serving."
+        "Prepare cream.",
+        "Dip cookies.",
+        "Layer.",
+        "Dust cocoa.",
+        "Chill."
       ],
       "image": "/images/meal-tira.jpg",
       "time": "45 min",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "calories": 470,
+      "weight": "170 g",
+      "nutrition": {
+        "protein": "7 g",
+        "carbohydrates": "43 g",
+        "fat": "31 g"
+      },
+      "rating": 4.9,
+      "reviews": 171
     },
     {
       "id": 8,
@@ -179,15 +242,24 @@
         "Fresh herbs"
       ],
       "steps": [
-        "Chop the vegetables.",
-        "Beat the eggs.",
-        "Cook the vegetables briefly.",
-        "Pour in the eggs.",
-        "Sprinkle with cheese and finish cooking."
+        "Chop vegetables.",
+        "Beat eggs.",
+        "Cook vegetables.",
+        "Add eggs.",
+        "Finish."
       ],
       "image": "/images/meal-oml.jpg",
       "time": "15 min",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "calories": 330,
+      "weight": "250 g",
+      "nutrition": {
+        "protein": "22 g",
+        "carbohydrates": "8 g",
+        "fat": "24 g"
+      },
+      "rating": 4.5,
+      "reviews": 83
     },
     {
       "id": 9,
@@ -202,15 +274,24 @@
         "Vegetable broth"
       ],
       "steps": [
-        "Cook the onion until soft.",
-        "Add pumpkin and potatoes.",
-        "Pour in the broth.",
-        "Simmer until tender.",
-        "Blend and stir in the cream."
+        "Cook onion.",
+        "Add vegetables.",
+        "Pour broth.",
+        "Blend.",
+        "Add cream."
       ],
       "image": "/images/meal-pumpk.jpeg",
       "time": "35 min",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "calories": 240,
+      "weight": "400 g",
+      "nutrition": {
+        "protein": "5 g",
+        "carbohydrates": "22 g",
+        "fat": "12 g"
+      },
+      "rating": 4.6,
+      "reviews": 76
     },
     {
       "id": 10,
@@ -225,15 +306,24 @@
         "Olive oil"
       ],
       "steps": [
-        "Roll out the dough.",
-        "Spread the tomato sauce.",
-        "Add mozzarella.",
-        "Bake for 15 minutes.",
-        "Garnish with basil."
+        "Roll dough.",
+        "Spread sauce.",
+        "Add cheese.",
+        "Bake.",
+        "Garnish."
       ],
       "image": "/images/meal-pizza.jpg",
       "time": "35 min",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "calories": 830,
+      "weight": "480 g",
+      "nutrition": {
+        "protein": "31 g",
+        "carbohydrates": "86 g",
+        "fat": "34 g"
+      },
+      "rating": 4.8,
+      "reviews": 229
     },
     {
       "id": 11,
@@ -244,19 +334,28 @@
         "Romaine lettuce",
         "Chicken breast",
         "Croutons",
-        "Parmesan cheese",
+        "Parmesan",
         "Caesar dressing"
       ],
       "steps": [
-        "Grill the chicken.",
-        "Chop the lettuce.",
-        "Mix with croutons.",
-        "Add sliced chicken.",
-        "Top with Parmesan and dressing."
+        "Grill chicken.",
+        "Chop lettuce.",
+        "Mix.",
+        "Add chicken.",
+        "Dress."
       ],
       "image": "/images/meal-caesar.webp",
       "time": "25 min",
-      "difficulty": "Easy"
+      "difficulty": "Easy",
+      "calories": 520,
+      "weight": "340 g",
+      "nutrition": {
+        "protein": "34 g",
+        "carbohydrates": "18 g",
+        "fat": "30 g"
+      },
+      "rating": 4.7,
+      "reviews": 158
     },
     {
       "id": 12,
@@ -273,14 +372,23 @@
         "Black pepper"
       ],
       "steps": [
-        "Season the salmon.",
-        "Brush with olive oil.",
-        "Grill for 5-7 minutes on each side.",
-        "Serve with lemon wedges."
+        "Season salmon.",
+        "Brush oil.",
+        "Grill.",
+        "Serve."
       ],
       "image": "/images/meal-salmon.jpeg",
       "time": "20 min",
-      "difficulty": "Medium"
+      "difficulty": "Medium",
+      "calories": 460,
+      "weight": "300 g",
+      "nutrition": {
+        "protein": "39 g",
+        "carbohydrates": "6 g",
+        "fat": "28 g"
+      },
+      "rating": 4.9,
+      "reviews": 145
     }
   ]
 }
